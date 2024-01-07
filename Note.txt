@@ -1,0 +1,220 @@
+
+-----------
+  > Learn
+-----------
+--> Dark Web / Net
+--> Web, Framwork, App, Fluuter, Game, Database, SEO(Search engine optimization) Devlopment
+--> VR (Virtual Reality), AI (Artificial Intelligence), SI (Super Intelligence), ML (Machine Learning)
+--> Data Sceince, Block Chain, Networking, Network security, Computer forensics
+--> Encryption
+--> 6 Sense, G Technology
+--> ChatGPT / GPT / OpenAI / DALL-E Devlopment
+--> Compatia A+, Compatia N+
+--> Cisa (Certified Information Systems Auditor), CEH (Certified ethical hacker)
+
+
+
+
+
+------------
+  > Search
+------------
+--> Learn, Tutorial, 
+--> Beginner, Fundamental, Fountain, Core
+--> Master, Advanced, Pro
+--> Full Stack, Bootcamp, Master class, Complete Course
+--> Zero to Hero, A to Z
+--> on/in  GitHub, GitLab
+
+
+
+
+
+--------------------
+  > UI/UX & Design
+--------------------
+--> XD, Figma
+--> Photoshop, Illustrator
+--> After Effects, Premiere Pro
+--> HTML5, CSS3, Bootstrap5
+
+
+
+
+
+------------------
+  > Technologies
+------------------
+-->  Unity, Unreal, 
+
+
+
+
+
+----------------------------------
+  > Management & Version Control
+----------------------------------
+--> Git, GitHub, GitLab, Bitbuket
+--> Jira, Docker, Jenkins
+--> DevOps
+
+
+
+
+
+--------------
+  > Framwork
+--------------
+--> Angular, Django, Flutter, .NET
+
+
+
+
+
+---------------
+  > Languages
+---------------
+--> SQL, C, C#, C++, Dart, ECMA JS, Go, Java, JavaScript, JQuery, Python, R, Ruby, PHP
+--> Node.js, React.js
+
+
+
+
+
+-------------
+  > Concept
+-------------
+--> OOPs, RDBMS
+
+
+
+
+
+---------------
+  > Databases
+---------------
+--> Apache, AWS, Azure, Google Cloud, Hadoop, JSON, MariaDB, MongoDB, MySQL, Oracle, PostgreSQL, Redis, SQL, SQLite, SQLServer
+
+
+
+
+
+---------------
+  > Directory
+---------------
+--> Audio, Books, Data, Documents, Exercise, Practice, Final, Images, Learn, Music, Notes, Pictures, Resume, Song, Videos
+
+
+
+
+
+-------------
+  > Product
+-------------
+--> USB Rubber Ducky, Bash Bunny, WiFi Pineapple
+--> Hak5, Alfa, FlipperZero, RaspberryPI, Arduino
+--> Ninebot
+
+
+
+
+
+------------------------------------
+  > Programs for Windows/Mac/Linux
+------------------------------------
+--> MinGW, JDK, JVM, JRE, Python, Node.js, dart-sdk, flutter-sdk, .Net-sdk, Git
+--> VirtualBox, VMware Workstation, Qemu, Rufus, Ventoy
+--> WinRAR, 7-Zip, PowerISO, UltraISO, IDM, JDownloader, µTorrent, RevoUninstaller, CPU-Z, VLC, Send Anywhere
+--> TeamViewer, AnyDesk
+--> Nitro Reader, Adobe Reader, Microsoft Office, Open Office
+--> HandBrake, Icecream Screen Recorder, GitKrak
+--> Sublime, Notepad++, Atom, VSCode, Visual Studio, Android Studio
+--> PyCharm, Spyder, NetBeans
+--> MySQL, PostgreSQL, SQLite, MongoDB, Oracle, SQLServer, dbForge, Studio3T, EdrawMax
+--> Figma, XD, Sketch, Illustrator, Photoshop, Lightroom, After Effect, Premiere Pro, Filmora, CorelDraw
+--> Blender, Unity, Unre
+--> Lingoes, WordWeb, Pichone, Filezilla, CuteFTP, Cyberduck
+--> Chrome, Firefox, Opera, Safari, Edge, Tor
+--> BlueStacks, Steam, Epic
+--> GTA, Forza Horizon, Stronghold Crusader, Uncharted, Call of Duty, PUBG
+--> USBSpy, USBDumper, Emule, Wireshark, Acronis, HTTrack, LastActivityView
+
+
+
+
+
+------------------
+  > Online Tools
+------------------
+--> PlantText, PlantUML, draw.io
+
+
+
+
+
+------------------------------
+  > Programs for Android/IOS
+------------------------------
+--> SnapTube,  
+--> Facebook, Instagram, Messenger, Snapchat, Twitter, Pinterest, Telegram, WhatsApp
+--> LinkedIn
+--> BOB, SBI, 
+
+
+
+
+
+------------------------
+  > Microsoft Soft/App
+------------------------
+--> PowerToys
+
+
+
+
+
+---------------------
+  > Google Soft/App
+---------------------
+-->  
+
+
+
+
+
+--------------------
+  > Apple Soft/App
+--------------------
+--> 
+
+
+
+
+
+--------------
+  > Projects 
+--------------
+--> Portfolio, Education, Software Downloads, OTT Plateform, Social Media, E-Commerce
+--> Theater, Stadium, Event, HealthCare, Library, Restaurant, Properties
+
+
+
+
+
+-----------
+  > Names
+-----------
+--> Technologies, InfoTech
+--> ZeroFill, EpicLine, The Sparkle, THE-RPX
+
+--> ruchitpx, AdityaOne Aditya X One, AdityaXO, 
+--> Epic, Elite, Line, Light, Falcon, Purple, Sparkle, Aditya,
+--> X, One,
+
+--> com, net, org, info, edu, store
+--> Indian, African, American, French, Italian, Mexican, Spanish
+
+
+
+
+
