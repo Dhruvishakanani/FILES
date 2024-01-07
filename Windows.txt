@@ -1,0 +1,82 @@
+
+------------------------
+  Command Prompt (cmd)
+------------------------
+  Create folder
+--> mkdir FOLDER_NAME
+--> md FOLDER_NAME
+
+  Delete folder 
+--> rmdir FOLDER_NAME
+--> rd FOLDER_NAME
+
+  Show file/folder
+--> dir
+
+  Rename file/folder
+--> ren OLD_NAME NEW_NAME
+  
+  Check any program version
+-->PROGRAM_NAME --version
+
+  Clone website using cmd
+--> wget --mirror --convert-link --adjust-extension --page-requisites --no-parent HTTPS://WEBSITE_NAME.DOMAIN
+--> wget --mirror --convert-links --wait=2 HTTPS://WEBSITE_NAME.DOMAIN
+
+  Show connected wifi network password
+--> netsh wlan show profile
+--> netsh wlan show profile name=PROFILE_NAME key=clear
+
+  Create battery report
+--> powercfg/batteryreport
+
+  Show upgradation of software 
+--> winget upgrade
+--> winget upgrade --all
+
+  Other
+--> notepad FILE_NAME.EXTENSION:PASSWORD
+--> wmic bios get serialnumber
+
+
+
+
+
+-------------------
+  Run (Windows+R)
+-------------------
+--> ms-settings:  [Open Setting]
+--> control  [Open Control Panel]
+--> compmgmt.msc  [Open Computer Management]
+--> sysdm.cpl  [Open System Properties]
+--> netplwiz  [Open User Accounts]
+--> msconfig  [Open System Configuration]
+
+--> powershell  [Open powershell]
+--> cmd  [Open Command Prompt]
+
+--> chrome  [Open Chrome]
+--> code  [Open VSCode]
+--> notepad  [Open Notepad]
+--> mspaint  [Open Paint]
+--> winword  [Open Word]
+--> psr  [Open Step recorder of screen]
+
+--> temp  [Open C:\Windows\Temp]
+--> %temp%  [Open C:\Users\USER_NAME\AppData\Local\Temp]
+--> prefetch  [Open C:\Windows\Prefetch]
+--> cleanmgr  [Open Disk Cleanup]
+--> mrt  [Open Microsoft Windows Malicious Software Removal Tool]
+
+
+
+
+
+---------
+  Other
+---------
+--> Open in Admin level (Ctrl + Shift + Enter)
+
+
+
+
